@@ -1,4 +1,3 @@
-import { ThemeProvider } from "@emotion/react";
 import { styled } from "@mui/system";
 
 export const HeaderContainer = styled('header')`
